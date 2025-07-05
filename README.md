@@ -1,7 +1,9 @@
 # Timer App
 A lightweight desktop timer application built with Electron.
+
 <br>
 <br>
+
 ## Installation
 1. Linux: <br>
    .deb installer (recommended)
