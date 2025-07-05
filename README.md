@@ -17,6 +17,6 @@ Now, simply run the .exe file inside the dist/ folder
 To build the linux version:
 ```bash
 npm run dist -- -l
-
+```
 
 
