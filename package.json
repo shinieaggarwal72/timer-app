@@ -19,7 +19,10 @@
       "target": ["AppImage", "deb"]
     }
   },
-  "author": "shinie",
+  "author": {
+    "name": "Shinie Aggarwal",
+    "email": "shinie@example.com"
+  },
   "license": "ISC",
   "devDependencies": {
     "electron": "^37.2.0",
