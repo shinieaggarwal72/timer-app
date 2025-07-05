@@ -18,7 +18,8 @@ A lightweight desktop timer application built with Electron.
 2. Windows:<br>
    Just download and run the .exe installer.
    
-
+<br>
+<br>
 ## Development Setup
 ```bash
 git clone https://github.com/shinieaggarwal72/timer-app.git
