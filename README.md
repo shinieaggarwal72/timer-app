@@ -20,6 +20,7 @@ A lightweight desktop timer application built with Electron.
    
 <br>
 <br>
+
 ## Development Setup
 ```bash
 git clone https://github.com/shinieaggarwal72/timer-app.git
